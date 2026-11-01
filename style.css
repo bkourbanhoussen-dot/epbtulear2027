@@ -1,0 +1,42 @@
+body{
+font-family:Arial,sans-serif;
+margin:0;
+background:#f7f2e8;
+color:#222;
+text-align:center;
+}
+header{
+background:#0b3d91;
+color:white;
+padding:30px;
+}
+header img{
+height:90px;
+margin:10px;
+border-radius:10px;
+}
+section{
+background:white;
+margin:20px auto;
+padding:20px;
+max-width:700px;
+border-radius:15px;
+}
+input,select,button{
+display:block;
+width:90%;
+margin:10px auto;
+padding:12px;
+border-radius:8px;
+border:1px solid #aaa;
+}
+button{
+background:#d4af37;
+font-weight:bold;
+cursor:pointer;
+}
+footer{
+padding:20px;
+background:#111;
+color:white;
+}
